@@ -1,1 +1,4 @@
 THIS is my statics file
+
+ThisNodeOs is: {{ansible_os_family}}
+ThisNodeIP is: {{ansible_all_ipv4_addresses}}
