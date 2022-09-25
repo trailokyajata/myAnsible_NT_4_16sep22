@@ -10,4 +10,4 @@
   - name: i want to copy files
     copy: 
       src: mystaticfiles
-      dest: /home/ubuntu/mystaticfile.txt
+      dest: /home/ubuntu/mystaticfiles.txt
