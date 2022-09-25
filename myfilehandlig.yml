@@ -9,5 +9,5 @@
       state: directory
   - name: i want to copy files
     copy: 
-      src: mystaticfile
+      src: mystaticfiles
       dest: /home/ubuntu/mystaticfile.txt
