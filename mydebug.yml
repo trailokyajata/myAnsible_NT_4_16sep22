@@ -3,4 +3,4 @@
   become: yes
   tasks: 
   - name: execute linux directly
-    command: 
+    command: hostname -f
